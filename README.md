@@ -1,5 +1,4 @@
-# Logs Analysis - Udacity
-### Full Stack Web Development ND
+# Logs Analysis
 _______________________
 ## The Application
 This python command line app is used to reproduce some metrics about a log table of a website. Those metrics beign
