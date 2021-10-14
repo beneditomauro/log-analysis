@@ -2,8 +2,8 @@
 _______________________
 ## The Application
 This python command line app is used to reproduce some metrics about a log table of a website. Those metrics beign
-- Most clicked articles
-- Most famous authors
+- Most clicked articles!!!!
+- Most famous authors!!!!!
 - The days that more than 1% of requests led to an error.
 
 ## Tech/framework used
